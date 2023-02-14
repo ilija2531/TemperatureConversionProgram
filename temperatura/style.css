@@ -1,0 +1,30 @@
+body{
+    background-color: #68389c ;
+    font-family: sans-serif;
+}
+
+h1{
+    color: azure;
+}
+
+h2{
+    color: azure;
+}
+
+h3{
+    color: azure;
+}
+
+label{
+    color: azure;
+    font-size: 25px;
+}
+
+button{
+    font-size: xx-large;
+    border: 6px solid;
+}
+input{
+    font-size: larger;
+    border: 6px solid;
+}
